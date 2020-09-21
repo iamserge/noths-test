@@ -2,8 +2,8 @@
 
 ## Installation
 
-npm install
-npm start
+- npm install
+- npm start
 
 That will start webpack dev server on http://localhost:8080
 Clicking on "Next day" button will update items in the inventory as per specification
